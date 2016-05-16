@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello! Thanks for visiting my site! 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+My name is Loren, and I'm a junior Rails developer.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+You may be asking yourself: what the heck is a Glühbirnen? Well, it's the German word for lightbulbs. And with this blog, I hope to shine a light (ha!) on my experiences, struggles, and wins as a junior dev. Hope you enjoy my lightbulbs! :) 
+
+You can find out what I'm working on:
+{% include icon-github.html username="Locrawfish" %} /
+[Locrawfish](https://github.com/Locrawfish)
+
